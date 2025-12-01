@@ -1,0 +1,18 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	ignorecase = true
+[remote "origin"]
+	url = https://github.com/dgustin2020/Lolin_02_BMP280_1v1_win.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "main"]
+	remote = origin
+	merge = refs/heads/main
+[remote "dgustin2020/Lolin_02_BME280_1v1_win"]
+	url = https://github.com/dgustin2020/Lolin_02_BME280_1v1_win
+	fetch = +refs/heads/*:refs/remotes/dgustin2020/Lolin_02_BME280_1v1_win/*
+[user]
+	email = dgustin@tiscalinet.it
+	name = dgustin2020
