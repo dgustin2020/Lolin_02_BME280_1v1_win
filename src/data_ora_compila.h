@@ -1,2 +1,2 @@
 #define DATA_COMPILA "01/12/2025"
-#define ORA_COMPILA  "09:47:18"
+#define ORA_COMPILA  "09:59:10"
